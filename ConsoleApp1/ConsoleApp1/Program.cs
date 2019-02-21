@@ -10,9 +10,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello ");
-            Console.ReadLine();
+            Point p1 = new Point(12,10,'#');
+            Point p2 = new Point();   
 
+        
+
+
+            Console.ReadLine();
         }
+        
     }
 }
